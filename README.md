@@ -7,7 +7,8 @@ Visual Studio, náročnost: střední C#
 
 --------------------------------------------------------------
 # Projektová dokumentace hry Snake v C#
-Aplikace: Jedná se o hru Snake, kde hráč ovládá hada, sbírá jídlo a snaží se co nejdéle přežít.
+## Aplikace:
+Jedná se o hru Snake, kde hráč ovládá hada, sbírá jídlo a snaží se co nejdéle přežít.
 Použité technologie:
 C# (programovací jazyk)
 Windows Forms (grafické rozhraní)
